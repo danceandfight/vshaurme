@@ -1,8 +1,6 @@
 $ cat .gitignore
 
 .idea
-/.vscode
 .vscode
-/.DS_Store
 .DS_Store
 *.sqlite3
